@@ -1,3 +1,7 @@
+# IIRC this karton is a slightly modified version of
+# https://github.com/raw-data/karton-die-classifier,
+# can't remember what was changed though
+
 from karton.core import Config, Karton, Task
 import subprocess
 import logging
